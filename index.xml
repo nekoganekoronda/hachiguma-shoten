@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>八熊商店</title>
+    <link>https://hachiguma-shoten.netlify.com/</link>
+    <description>Recent content on 八熊商店</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 22 Oct 2019 16:33:22 +0900</lastBuildDate>
+    
+	<atom:link href="https://hachiguma-shoten.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>イラスト</title>
+      <link>https://hachiguma-shoten.netlify.com/illustrations/</link>
+      <pubDate>Tue, 22 Oct 2019 16:33:22 +0900</pubDate>
+      
+      <guid>https://hachiguma-shoten.netlify.com/illustrations/</guid>
+      <description>イラスト</description>
+    </item>
+    
+    <item>
+      <title>GitHubでリポジトリを削除する方法</title>
+      <link>https://hachiguma-shoten.netlify.com/it/delete_repository/</link>
+      <pubDate>Sat, 19 Oct 2019 19:11:09 +0900</pubDate>
+      
+      <guid>https://hachiguma-shoten.netlify.com/it/delete_repository/</guid>
+      <description>GitHubでリポジトリを削除する方法 こんにちは！八熊みゆです！ GitHubにリポジトリを作ったものの、ゴミすぎるソースをコミットしちゃった</description>
+    </item>
+    
+    <item>
+      <title>初めての科研費！</title>
+      <link>https://hachiguma-shoten.netlify.com/tanpen/hajimetenokakenhi/</link>
+      <pubDate>Tue, 10 Sep 2019 20:26:25 +0900</pubDate>
+      
+      <guid>https://hachiguma-shoten.netlify.com/tanpen/hajimetenokakenhi/</guid>
+      <description>はじめての科研費！ あらすじ 南戸大学新人非常勤講師 山本は、&amp;rdquo;南戸大学 科研費のエース&amp;rdquo; 望月と共に、科研費の獲得を目指すが</description>
+    </item>
+    
+    <item>
+      <title>01</title>
+      <link>https://hachiguma-shoten.netlify.com/daigakukyojyu/01/</link>
+      <pubDate>Thu, 22 Aug 2019 22:03:26 +0900</pubDate>
+      
+      <guid>https://hachiguma-shoten.netlify.com/daigakukyojyu/01/</guid>
+      <description>世界一ホワイトな職業-大学教授- 第1話</description>
+    </item>
+    
+    <item>
+      <title>八熊みゆ について</title>
+      <link>https://hachiguma-shoten.netlify.com/administrator_detail/</link>
+      <pubDate>Fri, 16 Aug 2019 18:33:12 +0900</pubDate>
+      
+      <guid>https://hachiguma-shoten.netlify.com/administrator_detail/</guid>
+      <description>八熊みゆ について 名 前 八熊みゆ(はちぐまみゆ) 年 齢 20代 学 歴 大卒 資 格 基本情報技術者 経 歴 1社目 自社パッケージソフト開発・Sler、2年間 無職 3ヶ</description>
+    </item>
+    
+  </channel>
+</rss>

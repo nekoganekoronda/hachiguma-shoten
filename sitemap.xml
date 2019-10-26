@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://hachiguma-shoten.netlify.com/illustrations/</loc>
+    <lastmod>2019-10-22T16:33:22+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hachiguma-shoten.netlify.com/</loc>
+    <lastmod>2019-10-22T16:33:22+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hachiguma-shoten.netlify.com/it/delete_repository/</loc>
+    <lastmod>2019-10-19T19:11:09+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hachiguma-shoten.netlify.com/it/</loc>
+    <lastmod>2019-10-19T19:11:09+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hachiguma-shoten.netlify.com/tanpen/</loc>
+    <lastmod>2019-09-10T20:26:25+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hachiguma-shoten.netlify.com/tanpen/hajimetenokakenhi/</loc>
+    <lastmod>2019-09-10T20:26:25+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hachiguma-shoten.netlify.com/daigakukyojyu/01/</loc>
+    <lastmod>2019-08-22T22:03:26+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hachiguma-shoten.netlify.com/daigakukyojyu/</loc>
+    <lastmod>2019-08-22T22:03:26+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hachiguma-shoten.netlify.com/administrator_detail/</loc>
+    <lastmod>2019-08-16T18:33:12+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hachiguma-shoten.netlify.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hachiguma-shoten.netlify.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

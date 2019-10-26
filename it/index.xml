@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Its on 八熊商店</title>
+    <link>https://hachiguma-shoten.netlify.com/it/</link>
+    <description>Recent content in Its on 八熊商店</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 19 Oct 2019 19:11:09 +0900</lastBuildDate>
+    
+	<atom:link href="https://hachiguma-shoten.netlify.com/it/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GitHubでリポジトリを削除する方法</title>
+      <link>https://hachiguma-shoten.netlify.com/it/delete_repository/</link>
+      <pubDate>Sat, 19 Oct 2019 19:11:09 +0900</pubDate>
+      
+      <guid>https://hachiguma-shoten.netlify.com/it/delete_repository/</guid>
+      <description>GitHubでリポジトリを削除する方法 こんにちは！八熊みゆです！ GitHubにリポジトリを作ったものの、ゴミすぎるソースをコミットしちゃった</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tanpens on 八熊商店</title>
+    <link>https://hachiguma-shoten.netlify.com/tanpen/</link>
+    <description>Recent content in Tanpens on 八熊商店</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 10 Sep 2019 20:26:25 +0900</lastBuildDate>
+    
+	<atom:link href="https://hachiguma-shoten.netlify.com/tanpen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>初めての科研費！</title>
+      <link>https://hachiguma-shoten.netlify.com/tanpen/hajimetenokakenhi/</link>
+      <pubDate>Tue, 10 Sep 2019 20:26:25 +0900</pubDate>
+      
+      <guid>https://hachiguma-shoten.netlify.com/tanpen/hajimetenokakenhi/</guid>
+      <description>はじめての科研費！ あらすじ 南戸大学新人非常勤講師 山本は、&amp;rdquo;南戸大学 科研費のエース&amp;rdquo; 望月と共に、科研費の獲得を目指すが</description>
+    </item>
+    
+  </channel>
+</rss>

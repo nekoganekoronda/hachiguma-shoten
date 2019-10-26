@@ -1,0 +1,61 @@
+.pagination {
+    display: flex;
+    align-items: center;
+    margin: 20px 0 40px;
+    position: relative;
+    font-size: 16px;
+    font-weight: bold;
+}
+.pagination a {
+    display: block;
+    width: auto;
+    margin: 4px;
+    padding: 8px;
+    color: #1393EA;
+    border: 2px solid #1393EA;
+    background-color: #fff;
+    text-decoration: none;
+    text-align: center;
+    line-height: 16px;
+    border-radius: 5px;
+}
+.page-num {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+/* ページ番号 */
+.pagination .pager{
+    width: 32px;
+}
+/* ホバー時 & 現在のページ */
+.pagination a:hover,
+.pagination .current  {
+    color: #fff;
+    border-color: #1393EA;
+    background-color: #1393EA;
+}
+/* 前へ */
+.pagination a.prev {
+    margin-right: 16px;
+}
+/* 次へ */
+.pagination a.next {
+    margin-left: 16px;
+}
+@media (max-width: 600px) {
+    .pagination {
+        display: block;
+    }
+    .pagination > a, .pagination a.prev, .pagination a.next {
+        margin: 4px auto;
+    }
+    .pagination .pager {
+        margin-right: 0px;
+        margin-left: 0px;
+        flex-grow: 1;
+    }
+    .pager + .pager {
+        margin-left: 4px;
+    }
+}

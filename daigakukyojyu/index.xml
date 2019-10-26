@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daigakukyojyus on 八熊商店</title>
+    <link>https://hachiguma-shoten.netlify.com/daigakukyojyu/</link>
+    <description>Recent content in Daigakukyojyus on 八熊商店</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Thu, 22 Aug 2019 22:03:26 +0900</lastBuildDate>
+    
+	<atom:link href="https://hachiguma-shoten.netlify.com/daigakukyojyu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>01</title>
+      <link>https://hachiguma-shoten.netlify.com/daigakukyojyu/01/</link>
+      <pubDate>Thu, 22 Aug 2019 22:03:26 +0900</pubDate>
+      
+      <guid>https://hachiguma-shoten.netlify.com/daigakukyojyu/01/</guid>
+      <description>世界一ホワイトな職業-大学教授- 第1話</description>
+    </item>
+    
+  </channel>
+</rss>
